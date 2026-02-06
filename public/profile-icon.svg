@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14b8a6" /> <!-- Teal-500 -->
+      <stop offset="1" stop-color="#059669" /> <!-- Emerald-600 -->
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="32" fill="url(#gradient)" />
+  <text x="32" y="41" font-family="system-ui, -apple-system, sans-serif" font-weight="bold" font-size="28" fill="white" text-anchor="middle">KA</text>
+</svg>
